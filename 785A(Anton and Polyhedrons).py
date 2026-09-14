@@ -5,7 +5,7 @@ for i in range(n):
     if s=="Tetrahedron":
         count=count+4
     elif s=="Cube":
-        count=count+4
+        count=count+6
     elif s=="Octahedron":
         count=count+8
     elif s=="Dodecahedron":
