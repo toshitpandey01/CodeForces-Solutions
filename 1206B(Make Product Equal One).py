@@ -1,6 +1,6 @@
 n=int(input())
 a=list(map(int,input().split()))
-cost=0   #This variable keeps track of the total number of moves
+cost=0   #This variable keeps track of the fx number of moves
 neg=0    #This counts how many numbers in the list are negative
 zero=0   #This counts how many zeros are in the input
 for x in a:
